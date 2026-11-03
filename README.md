@@ -1,23 +1,24 @@
-[README.md](https://github.com/user-attachments/files/34313920/README.md)
-<!-- Header -->
+[Uploading README.md…]()
+<!-- ID card -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Efe%20Minnet&fontSize=64&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Web3%20Developer%20%E2%80%A2%20Security%20Enthusiast%20%E2%80%A2%20T%C3%BCrkiye&descSize=18&descAlignY=58" alt="header" />
+  <img width="100%" src="assets/idcard.svg" alt="Efe Minnet — Web3 Developer ID" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vSkyfall">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+on-chain%2C+one+contract+at+a+time.;Solidity+%E2%80%A2+React+%E2%80%A2+Node.js;Breaking+things+to+make+them+safer.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vSkyfall&label=PROFILE%20VIEWS&color=9d7bff&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vSkyfall?label=FOLLOWERS&style=flat-square&color=ff7ad9&labelColor=11141b" alt="followers" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-7af0ff?style=flat-square&labelColor=11141b" alt="status" />
 </p>
 
+<img width="100%" src="assets/divider.svg" alt="" />
+
+<!-- Contract explorer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vSkyfall&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/vSkyfall?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="followers" />
+  <img width="100%" src="assets/explorer.svg" alt="EfeMinnet contract explorer" />
 </p>
 
----
-
-### `> whoami`
+<details>
+<summary><b>✓ View verified source</b> · <code>EfeMinnet.sol</code></summary>
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -35,54 +36,38 @@ contract EfeMinnet {
 }
 ```
 
----
+</details>
 
-### `> tech stack`
+<img width="100%" src="assets/divider.svg" alt="" />
+
+###### TOKEN HOLDINGS · TECH STACK
 
 <p align="center">
-  <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=solidity,js,python,go,cpp,java,html,css&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,python,go,cpp,java,html,css&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery,mysql,mongodb,docker,git,ubuntu&theme=dark" alt="frameworks and tools" />
+</p>
+
+<img width="100%" src="assets/divider.svg" alt="" />
+
+###### ON-CHAIN ACTIVITY · STATS
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vSkyfall&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vSkyfall&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <b>Frameworks & Libraries</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery&theme=dark" alt="frameworks" />
+  <img src="https://streak-stats.demolab.com?user=vSkyfall&background=11141B&border=2F3542&stroke=2F3542&ring=9D7BFF&fire=FF7AD9&currStreakNum=E6EDF3&sideNums=7AF0FF&currStreakLabel=9D7BFF&sideLabels=8B949E&dates=8B949E&disable_animations=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <b>Databases & Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,ubuntu&theme=dark" alt="tools" />
-</p>
-
----
-
-### `> stats`
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vSkyfall&theme=tokyonight" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vSkyfall&theme=tokyonight" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vSkyfall&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vSkyfall&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-</p>
-
----
 
 <!--
-### `> connect`
+###### CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:MAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-11141b?style=for-the-badge&logo=linkedin&logoColor=7af0ff" /></a>
+  <a href="https://x.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/X-11141b?style=for-the-badge&logo=x&logoColor=9d7bff" /></a>
+  <a href="mailto:MAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-11141b?style=for-the-badge&logo=gmail&logoColor=ff7ad9" /></a>
 </p>
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=110&section=footer" alt="footer" />
-</p>
+<img width="100%" src="assets/divider.svg" alt="" />
