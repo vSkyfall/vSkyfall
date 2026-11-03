@@ -31,7 +31,8 @@
   <text x="300" y="206" class="lab">HANDLE</text><text x="300" y="232" class="val mono">@vSkyfall</text>
   <text x="530" y="206" class="lab">ORIGIN</text><text x="530" y="232" class="val">Türkiye</text>
   <text x="300" y="274" class="lab">CLASS</text><text x="300" y="300" class="val">Developer</text>
-  <text x="300" y="342" class="lab">ISSUED</text><text x="300" y="368" class="val mono">2024·12·25</text>
+  <text x="300" y="342" class="lab">LANGUAGES</text><text x="300" y="368" class="val" style="fill:#ff7ad9">TR · EN</text>
+  <text x="530" y="342" class="lab">ISSUED</text><text x="530" y="368" class="val mono">2024·12·25</text>
   <g transform="translate(700 338)" fill="#c9d1d9">
     <rect width="3" height="34"/><rect x="6" width="1" height="34"/><rect x="10" width="4" height="34"/><rect x="17" width="2" height="34"/><rect x="22" width="1" height="34"/><rect x="26" width="5" height="34"/><rect x="34" width="2" height="34"/><rect x="39" width="1" height="34"/><rect x="43" width="3" height="34"/><rect x="49" width="1" height="34"/><rect x="53" width="4" height="34"/><rect x="60" width="2" height="34"/><rect x="65" width="1" height="34"/><rect x="69" width="3" height="34"/><rect x="75" width="5" height="34"/><rect x="83" width="1" height="34"/><rect x="87" width="2" height="34"/><rect x="92" width="4" height="34"/><rect x="99" width="1" height="34"/><rect x="103" width="3" height="34"/><rect x="109" width="2" height="34"/><rect x="114" width="1" height="34"/><rect x="118" width="4" height="34"/><rect x="125" width="2" height="34"/><rect x="130" width="3" height="34"/>
   </g>
