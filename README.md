@@ -33,12 +33,6 @@
 
 <img width="100%" src="divider.svg" alt="" />
 
-###### BLOCKCHAIN
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Blockchain-11141b?style=for-the-badge&logo=blockchaindotcom&logoColor=7af0ff" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/Web3-11141b?style=for-the-badge&logo=web3dotjs&logoColor=ff7ad9" alt="Web3" />
-</p>
 
 <img width="100%" src="divider.svg" alt="" />
 
