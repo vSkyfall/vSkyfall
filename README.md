@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34313805/README.md)
+[README.md](https://github.com/user-attachments/files/34313920/README.md)
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Efe%20Minnet&fontSize=64&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Web3%20Developer%20%E2%80%A2%20Security%20Enthusiast%20%E2%80%A2%20T%C3%BCrkiye&descSize=18&descAlignY=58" alt="header" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/vSkyfall">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+on-chain%2C+one+contract+at+a+time.;Solidity+%E2%80%A2+React+%E2%80%A2+Node.js;Breaking+things+to+make+them+safer.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+on-chain%2C+one+contract+at+a+time.;Solidity+%E2%80%A2+React+%E2%80%A2+Node.js;Breaking+things+to+make+them+safer.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,16 +59,16 @@ contract EfeMinnet {
 ### `> stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vSkyfall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vSkyfall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vSkyfall&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vSkyfall&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vSkyfall&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vSkyfall&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vSkyfall&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
 </p>
 
 ---
