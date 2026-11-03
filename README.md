@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34319870/README.md)
+[README.md](https://github.com/user-attachments/files/34320378/README.md)
 <!-- ID card -->
 <p align="center">
   <img width="100%" src="idcard.svg" alt="Efe Minnet — Web3 Developer ID" />
@@ -17,39 +17,32 @@
   <img width="100%" src="explorer.svg" alt="EfeMinnet contract explorer" />
 </p>
 
-<details>
-<summary><b>✓ View verified source</b> · <code>EfeMinnet.sol</code></summary>
-
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.24;
-
-contract EfeMinnet {
-    string public location   = "Türkiye";
-    string public role       = "Web3 Developer";
-    string public focus      = "React & smart contracts";
-    string public askMeAbout = "HTML, pentesting, Web3 security";
-
-    function motto() external pure returns (string memory) {
-        return "Ship it. Audit it. Ship it again.";
-    }
-}
-```
-
-</details>
-
 <img width="100%" src="divider.svg" alt="" />
 
-###### TOKEN HOLDINGS · TECH STACK
+###### TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,js,python,go,cpp,java,html,css&theme=dark" alt="languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery,mysql,mongodb,docker,git,ubuntu&theme=dark" alt="frameworks and tools" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" alt="Python, JavaScript, HTML, CSS, C++" />
+</p>
+
+###### DATABASES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
 </p>
 
 <img width="100%" src="divider.svg" alt="" />
 
-###### ON-CHAIN ACTIVITY · STATS
+###### BLOCKCHAIN
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-11141b?style=for-the-badge&logo=blockchaindotcom&logoColor=7af0ff" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Web3-11141b?style=for-the-badge&logo=web3dotjs&logoColor=ff7ad9" alt="Web3" />
+</p>
+
+<img width="100%" src="divider.svg" alt="" />
+
+###### STATS
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vSkyfall&theme=github_dark" alt="GitHub stats" />
