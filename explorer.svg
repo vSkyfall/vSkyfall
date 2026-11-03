@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; font-size: 14px; }
+    .mono { font-family: "SF Mono", ui-monospace, Menlo, monospace; }
+    .k { fill: #8b949e; font-size: 13px; }
+    .a { fill: #5aa9ff; }
+    .ok { fill: #3fb950; }
+    .h { font-size: 12px; fill: #8b949e; font-weight: 600; letter-spacing: .5px; }
+    .new { animation: n 3s ease-in-out infinite; }
+    @keyframes n { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+  </style>
+  <rect x=".5" y=".5" width="899" height="559" rx="14" fill="#0e1117" stroke="#262b36"/>
+  <!-- top bar -->
+  <rect x="24" y="22" width="852" height="40" rx="10" fill="#161a22" stroke="#262b36"/>
+  <text x="44" y="47" class="k mono">🔍  0x5kyfa11...efe · search by address / txn / block</text>
+  <!-- title -->
+  <circle cx="44" cy="100" r="14" fill="#2d6cdf"/><text x="44" y="105" text-anchor="middle" style="font-size:13px;font-weight:700">EM</text>
+  <text x="70" y="96" style="font-size:20px;font-weight:700">Contract</text>
+  <text x="158" y="96" class="mono k" style="font-size:15px">0x5kyfa11e7e0000000000000000000000000c0de</text>
+  <rect x="70" y="106" width="96" height="20" rx="10" fill="#0f2d1a"/><text x="118" y="120" text-anchor="middle" class="ok" style="font-size:11px;font-weight:600">✓ VERIFIED</text>
+  <text x="178" y="121" class="k" style="font-size:12px">EfeMinnet.sol · compiler v0.8.24</text>
+  <!-- overview cards -->
+  <g transform="translate(24 146)">
+    <rect width="416" height="150" rx="12" fill="#161a22" stroke="#262b36"/>
+    <text x="20" y="30" class="h">OVERVIEW</text>
+    <text x="20" y="62" class="k">Owner</text><text x="150" y="62">Efe Minnet <tspan class="a">(@vSkyfall)</tspan></text>
+    <text x="20" y="90" class="k">Network</text><text x="150" y="90">Türkiye Mainnet</text>
+    <text x="20" y="118" class="k">Balance</text><text x="150" y="118">42 <tspan class="k">CONTRIB</tspan>  ·  10 <tspan class="k">REPOS</tspan></text>
+    <rect x="436" width="416" height="150" rx="12" fill="#161a22" stroke="#262b36"/>
+    <text x="456" y="30" class="h">MORE INFO</text>
+    <text x="456" y="62" class="k">Role</text><text x="586" y="62">Web3 Developer</text>
+    <text x="456" y="90" class="k">Focus</text><text x="586" y="90">React · Smart Contracts</text>
+    <text x="456" y="118" class="k">Ask about</text><text x="586" y="118">HTML · Pentest</text>
+  </g>
+  <!-- tabs -->
+  <g transform="translate(24 320)">
+    <rect width="104" height="30" rx="8" fill="#2d6cdf"/><text x="52" y="20" text-anchor="middle" style="font-size:13px;font-weight:600">Transactions</text>
+    <text x="134" y="20" class="k">Code ✓</text><text x="204" y="20" class="k">Read Contract</text><text x="312" y="20" class="k">Events</text>
+  </g>
+  <!-- tx table -->
+  <g transform="translate(24 362)">
+    <rect width="852" height="176" rx="12" fill="#161a22" stroke="#262b36"/>
+    <text x="20" y="28" class="h">TXN HASH</text><text x="190" y="28" class="h">METHOD</text><text x="400" y="28" class="h">AGE</text><text x="540" y="28" class="h">VALUE</text>
+    <path d="M0 40 H852" stroke="#262b36"/>
+    <g class="new"><text x="20" y="68" class="mono a">0x9f2c…a41e</text><rect x="190" y="52" width="130" height="22" rx="6" fill="#1f2633"/><text x="200" y="68" class="mono" style="font-size:12px">learnReact()</text><text x="400" y="68" class="k">just now</text><text x="540" y="68">∞ curiosity</text></g>
+    <text x="20" y="102" class="mono a">0x71be…09cd</text><rect x="190" y="86" width="150" height="22" rx="6" fill="#1f2633"/><text x="200" y="102" class="mono" style="font-size:12px">deployContract()</text><text x="400" y="102" class="k">2 days ago</text><text x="540" y="102">Solidity · Hardhat</text>
+    <text x="20" y="136" class="mono a">0x0dd3…77f2</text><rect x="190" y="120" width="120" height="22" rx="6" fill="#1f2633"/><text x="200" y="136" class="mono" style="font-size:12px">auditRepo()</text><text x="400" y="136" class="k">1 week ago</text><text x="540" y="136">3 bugs found 🐛</text>
+    <text x="20" y="166" class="mono a">0xe5a0…1b3c</text><rect x="190" y="150" width="126" height="22" rx="6" fill="#1f2633"/><text x="200" y="166" class="mono" style="font-size:12px">mint(stack)</text><text x="400" y="166" class="k">2024-12-25</text><text x="540" y="166">JS · Python · Go · C++</text>
+  </g>
+</svg>
