@@ -1,7 +1,7 @@
-[Uploading README.md…]()
+[README.md](https://github.com/user-attachments/files/34319870/README.md)
 <!-- ID card -->
 <p align="center">
-  <img width="100%" src="assets/idcard.svg" alt="Efe Minnet — Web3 Developer ID" />
+  <img width="100%" src="idcard.svg" alt="Efe Minnet — Web3 Developer ID" />
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING-7af0ff?style=flat-square&labelColor=11141b" alt="status" />
 </p>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" src="divider.svg" alt="" />
 
 <!-- Contract explorer -->
 <p align="center">
-  <img width="100%" src="assets/explorer.svg" alt="EfeMinnet contract explorer" />
+  <img width="100%" src="explorer.svg" alt="EfeMinnet contract explorer" />
 </p>
 
 <details>
@@ -38,7 +38,7 @@ contract EfeMinnet {
 
 </details>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" src="divider.svg" alt="" />
 
 ###### TOKEN HOLDINGS · TECH STACK
 
@@ -47,7 +47,7 @@ contract EfeMinnet {
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery,mysql,mongodb,docker,git,ubuntu&theme=dark" alt="frameworks and tools" />
 </p>
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" src="divider.svg" alt="" />
 
 ###### ON-CHAIN ACTIVITY · STATS
 
@@ -70,4 +70,4 @@ contract EfeMinnet {
 </p>
 -->
 
-<img width="100%" src="assets/divider.svg" alt="" />
+<img width="100%" src="divider.svg" alt="" />
