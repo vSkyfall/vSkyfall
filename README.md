@@ -1,41 +1,88 @@
-  [![MasterHead](https://i.redd.it/qbkk7w7lzhg91.png)
-![](https://komarev.com/ghpvc/?username=vSkyfall&color=blue)
+[README.md](https://github.com/user-attachments/files/34313805/README.md)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Efe%20Minnet&fontSize=64&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Web3%20Developer%20%E2%80%A2%20Security%20Enthusiast%20%E2%80%A2%20T%C3%BCrkiye&descSize=18&descAlignY=58" alt="header" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Efe Minnet</h1>
-<h3 align="center">A passionate Web3 devolaper from Türkiye</h3>
-<div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Efe+Minnet+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<p align="center">
+  <a href="https://github.com/vSkyfall">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+on-chain%2C+one+contract+at+a+time.;Solidity+%E2%80%A2+React+%E2%80%A2+Node.js;Breaking+things+to+make+them+safer.;Welcome+to+my+corner+of+GitHub." alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **React**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vSkyfall&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vSkyfall?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="followers" />
+</p>
 
-- 💬 Ask me about **html,pentest**
+---
 
-- 👋
-- 
+### `> whoami`
 
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
 
+contract EfeMinnet {
+    string public location   = "Türkiye";
+    string public role       = "Web3 Developer";
+    string public focus      = "React & smart contracts";
+    string public askMeAbout = "HTML, pentesting, Web3 security";
 
-# 💻 Languages and Tools:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black.svg?logo=next.js&style=for-the-badge&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    function motto() external pure returns (string memory) {
+        return "Ship it. Audit it. Ship it again.";
+    }
+}
+```
+
+---
+
+### `> tech stack`
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=solidity,js,python,go,cpp,java,html,css&theme=dark" alt="languages" />
+</p>
+
+<p align="center">
+  <b>Frameworks & Libraries</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery&theme=dark" alt="frameworks" />
+</p>
+
+<p align="center">
+  <b>Databases & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,ubuntu&theme=dark" alt="tools" />
+</p>
+
+---
+
+### `> stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vSkyfall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vSkyfall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vSkyfall&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vSkyfall&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" />
+</p>
+
+---
+
+<!--
+### `> connect`
+
+<p align="center">
+  <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:MAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=110&section=footer" alt="footer" />
+</p>
