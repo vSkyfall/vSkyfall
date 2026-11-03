@@ -28,9 +28,9 @@
     <text x="20" y="118" class="k">Balance</text><text x="150" y="118">42 <tspan class="k">CONTRIB</tspan>  ·  10 <tspan class="k">REPOS</tspan></text>
     <rect x="436" width="416" height="150" rx="12" fill="#161a22" stroke="#262b36"/>
     <text x="456" y="30" class="h">MORE INFO</text>
-    <text x="456" y="62" class="k">Role</text><text x="586" y="62">Web3 Developer</text>
-    <text x="456" y="90" class="k">Focus</text><text x="586" y="90">React · Smart Contracts</text>
-    <text x="456" y="118" class="k">Ask about</text><text x="586" y="118">HTML · Pentest</text>
+    <text x="456" y="62" class="k">Role</text><text x="586" y="62">Developer</text>
+    <text x="456" y="90" class="k">Stack</text><text x="586" y="90">Python · JS · C++</text>
+    <text x="456" y="118" class="k">Blockchain</text><text x="586" y="118">Web3</text>
   </g>
   <!-- tabs -->
   <g transform="translate(24 320)">
@@ -42,9 +42,9 @@
     <rect width="852" height="176" rx="12" fill="#161a22" stroke="#262b36"/>
     <text x="20" y="28" class="h">TXN HASH</text><text x="190" y="28" class="h">METHOD</text><text x="400" y="28" class="h">AGE</text><text x="540" y="28" class="h">VALUE</text>
     <path d="M0 40 H852" stroke="#262b36"/>
-    <g class="new"><text x="20" y="68" class="mono a">0x9f2c…a41e</text><rect x="190" y="52" width="130" height="22" rx="6" fill="#1f2633"/><text x="200" y="68" class="mono" style="font-size:12px">learnReact()</text><text x="400" y="68" class="k">just now</text><text x="540" y="68">∞ curiosity</text></g>
-    <text x="20" y="102" class="mono a">0x71be…09cd</text><rect x="190" y="86" width="150" height="22" rx="6" fill="#1f2633"/><text x="200" y="102" class="mono" style="font-size:12px">deployContract()</text><text x="400" y="102" class="k">2 days ago</text><text x="540" y="102">Solidity · Hardhat</text>
-    <text x="20" y="136" class="mono a">0x0dd3…77f2</text><rect x="190" y="120" width="120" height="22" rx="6" fill="#1f2633"/><text x="200" y="136" class="mono" style="font-size:12px">auditRepo()</text><text x="400" y="136" class="k">1 week ago</text><text x="540" y="136">3 bugs found 🐛</text>
-    <text x="20" y="166" class="mono a">0xe5a0…1b3c</text><rect x="190" y="150" width="126" height="22" rx="6" fill="#1f2633"/><text x="200" y="166" class="mono" style="font-size:12px">mint(stack)</text><text x="400" y="166" class="k">2024-12-25</text><text x="540" y="166">JS · Python · Go · C++</text>
+    <g class="new"><text x="20" y="68" class="mono a">0x9f2c…a41e</text><rect x="190" y="52" width="130" height="22" rx="6" fill="#1f2633"/><text x="200" y="68" class="mono" style="font-size:12px">learnWeb3()</text><text x="400" y="68" class="k">just now</text><text x="540" y="68">∞ curiosity</text></g>
+    <text x="20" y="102" class="mono a">0x71be…09cd</text><rect x="190" y="86" width="150" height="22" rx="6" fill="#1f2633"/><text x="200" y="102" class="mono" style="font-size:12px">buildSite()</text><text x="400" y="102" class="k">2 days ago</text><text x="540" y="102">HTML · CSS · JS</text>
+    <text x="20" y="136" class="mono a">0x0dd3…77f2</text><rect x="190" y="120" width="120" height="22" rx="6" fill="#1f2633"/><text x="200" y="136" class="mono" style="font-size:12px">queryDB()</text><text x="400" y="136" class="k">1 week ago</text><text x="540" y="136">MySQL · MongoDB</text>
+    <text x="20" y="166" class="mono a">0xe5a0…1b3c</text><rect x="190" y="150" width="126" height="22" rx="6" fill="#1f2633"/><text x="200" y="166" class="mono" style="font-size:12px">mint(stack)</text><text x="400" y="166" class="k">2024-12-25</text><text x="540" y="166">Python · JS · C++</text>
   </g>
 </svg>
